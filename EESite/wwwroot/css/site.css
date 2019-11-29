@@ -70,3 +70,23 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
+
+/* Custom styles
+-------------------------------------------------- */
+
+.MapContainer {
+    width: 100%;
+    height: 25em;
+    border: 0;
+    margin-top: 1em;
+}
+
+.ContactDataContainer p {
+    margin-top: -7px;
+}
+
+
+
+
+
